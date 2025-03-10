@@ -1,3 +1,8 @@
+## Link Stork Oracle
+https://chrome.google.com/webstore/detail/stork/knnliglhgkmlblppdejchidfihjnockl
+
+Join me on Stork! Use my referral code: OHCVQ6ORYO
+
 ## Requirements
 
 - Node.js 14.0.0 or higher
